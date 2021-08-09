@@ -1,0 +1,45 @@
+#search-bar-button{
+    border-radius: 0px 25px 25px 0px;
+    height: 35px;
+    color: white;
+}
+
+#search-bar{
+    border-radius: 15px 0px 0px 15px;
+    height: 36px;
+    width: 240px;
+}
+
+#card-text{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#card-text-button{
+    padding: 0px 21px;
+    border: 1px solid white;
+    border-radius: 25px;
+    text-align: center;
+    line-height: 35px;
+    
+}
+
+
+#card-style{
+    font-weight: bold;
+    font-size: 10px;
+}
+
+
+#tect-submit{
+    font-size: 20px;
+    color: white;
+}
+
+hr {
+    margin: 0;
+}
+
+.bg-dark {
+    background-color: black!important;
+}
